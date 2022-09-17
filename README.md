@@ -8,5 +8,5 @@ NoSQL surgiu com a necessidade de escalabilidade horizontal e armazenar um volum
 E o foco que já não mais é a estrutura, a atenção vai ser direcionada a forma que a chave é criada pra facilitar o encontro do valor.
 E pra quem não conhece os principais bancos, só conhece um SQL e um NoSQL, vai aprender na prática qual usar, exemplo fazer uma solução em um SQL e uma em NoSQL e ver qual a melhor.
 Entendendo esse conceito, chegamos na atualidade que é usar a nuvem a nosso favor, as grandes empresas como o Banco Carrefour usam e também usam o Oracle, que é o SGBD mais utilizado. Mas também usam de NoSQL pra outras soluções.
-Essa liberdade para construir o banco de dados do zero vai pegando mais responsibilidade com as mudanças dos dados na empresa e cada passo vai dando mais atenção de acrescentar ou migrar outro banco de dados.
+Essa liberdade para construir o banco de dados do zero vai pegando mais responsabilidade com as mudanças dos dados na empresa e cada passo vai dando mais atenção de acrescentar ou migrar outro banco de dados.
 Essa escolha da demanda dos dados é feita por líderes de vários setores na empresa. E chegamos em dois que são complementares, o engenheiro de dados que é mais ligado a preparação da informação. Conseguir coletar, preparar, armazenar e deixar disponível para os cientistas utilizar em insights.
